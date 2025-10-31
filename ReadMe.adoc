@@ -1,10 +1,9 @@
-```{"variant":"standard","title":"Fixed ReadMe.adoc (GitHub-compatible)","id":"72054"}
-= Arduino IoT Water Pump Controller
 :Author: putthipong09_w
-:Email: putthipong09_w@example.com
+:Email:
 :Date: 17/06/2025
-:Revision: v1.0
+:Revision: version#
 :License: Public Domain
+
 
 == Overview
 This project implements an *automatic water pump system* connected to the *Arduino IoT Cloud*.  
@@ -76,7 +75,3 @@ Water_Pump/
 == License
 This project is released under the *Public Domain License.*
 
-== Contributing
-To contribute or report issues, please contact:  
-*putthipong09_w@example.com*
-```
