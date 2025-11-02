@@ -62,16 +62,6 @@ Water_Pump/
  └── README.adoc           → This documentation file
 ....
 
-== Bill of Materials (BOM)
-|===
-| ID | Part name | Part number | Quantity
-| A1 | ESP8266 / ESP32 | - | 1
-| R1 | Relay module (5V) | SRD-05VDC | 1
-| L1 | LED (status) | - | 1
-| R2 | 220Ω Resistor | - | 1
-| P1 | Water Pump (12V/24V) | - | 1
-|===
-
 == License
 This project is released under the *Public Domain License.*
 
